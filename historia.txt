@@ -1,0 +1,5 @@
+Esta es una prueba del curso de Git y Git Hub.
+
+Git es un sistema de control de versiones. 
+
+GitHub es un sistema de alojamiento basado en el sistema de control de versiones.
