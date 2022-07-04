@@ -2,5 +2,4 @@ Esta es una prueba del curso de Git y Git Hub.
 
 Git es un sistema de control de versiones que fue originalmente diseñado para linux.
 
-GitHub es un sistema de alojamiento basado en el sistema de control de versiones, para mas informacion puedes visitar la web. O visitar youtube el canal oficial.
-
+Visita Platzi para ver el curso completo de git y git hub
